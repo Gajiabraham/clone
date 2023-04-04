@@ -29,7 +29,7 @@ html {
     width: 1260;
     background-repeat: no-repeat;
     background-image: url(img/Highlight-PC-SMB-OneNote_VP4-1260x600.avif);
-    margin-right: 50px;
+    margin-left: 50px;
 
 }
 
@@ -38,9 +38,14 @@ html {
     margin-right: 200px;
 }
 
+.jumbotron1 p {
+    overflow-wrap: break-word;
+}
+
 .card {
     padding-top: 20px;
     margin-top: 20px;
+    bor
 }
 
 /*---------------------------------------footer----------------*/
@@ -180,7 +185,7 @@ p.text-left {
 
 li {
     display: inline-block;
-    margin-right: ;
+    margin-right: 30px;
     list-style: none;
 }
 
