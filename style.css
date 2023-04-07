@@ -185,6 +185,11 @@ p.text-left {
     margin: 0 12px;
 }
 
+.foote_bottom_ul_amrc li a:hover {
+    color: black;
+
+}
+
 .social_footer_ul {
     display: table;
     margin-left: 5px;
